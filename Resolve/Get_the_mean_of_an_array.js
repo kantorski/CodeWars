@@ -4,6 +4,3 @@ function getAverage(marks){
   const average = marks.reduce((acu, ele) => acu + ele) / marks.length
   return Math.floor(average)
 }
-
-
-console.log(getAverage([19,5,8,10,13,18]))
