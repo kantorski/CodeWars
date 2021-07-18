@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/52761ee4cffbc69732000738
+
 function goodVsEvil(good, evil){
   const arrWorthGood = [{unit: 'Hobbit', value: 1},
                         {unit: 'Men', value: 2},
