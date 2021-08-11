@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/525f4206b73515bffb000b21
+
 function add(a, b){
   if (a.length > b.length){
     b = '0'.repeat(a.length - b.length) + b
